@@ -2,7 +2,7 @@ module.exports.config = {
   name: "leave",
   eventType: ["log:unsubscribe"],
   version: "1.0.0",
-  credits: "Nayan",
+  credits: "ArYan",
   description: "notify leave.",
 };
 
@@ -14,8 +14,8 @@ module.exports.run = async function({ api, event, Users, Threads }) {
   const data = global.data.threadData.get(parseInt(threadID)) || (await Threads.getData(threadID)).data;
   const name = global.data.userName.get(event.logMessageData.leftParticipantFbId) || await Users.getNameUser(event.logMessageData.leftParticipantFbId);
   const type = (event.author == event.logMessageData.leftParticipantFbId) ? "তোর কতো বড় সাহস আমি আরয়ান bot থাকতে তুই লিফট নিবি? থাপ্পর চিনো তুই☹️😡 🥱দারা তোরে আবার এট দিবো 🤨" : "বাল পাকনামির কারণে কিক খাইলো🤧";
-  const path = join(__dirname, "Nayan", "leaveGif");
-  const gifPath = join(path, `by.gif`);
+  const path = join(__dirname, "Nayan", "ArYan");
+  const mp4Path = join(path, `Messenger_creation_D9B5E5F7-A4E1-4870-A8E2-D500072CFFF6.mp4`);
   let msg, formPush;
 
   if (existsSync(path)) mkdirSync(path, { recursive: true });
@@ -24,7 +24,7 @@ module.exports.run = async function({ api, event, Users, Threads }) {
   msg = msg.replace(/\{name}/g, name).replace(/\{type}/g, type);
 
   if (existsSync(gifPath)) {
-    formPush = { body: msg, attachment: createReadStream(gifPath) };
+    formPush = { body: msg, attachment: createReadStream(mp4Path) };
   } else {
     formPush = { body: msg };
   }
