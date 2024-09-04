@@ -2,7 +2,7 @@ module.exports.config = {
     name: "rankup",
     version: "1.0.0",
     permission: 0,
-    credits: "farhan",
+    credits: "ArYan",
     description: "Restart Bot",
     prefix: true, 
     category: "system", 
@@ -46,8 +46,8 @@ module.exports.handleEvent = async function({ api, event, Currencies, Users, get
 		let arrayContent;
 
 		if (existsSync(__dirname + "/Nayan/")) mkdirSync(__dirname + "/Nayan/", { recursive: true });
-		if (existsSync(__dirname + `/Nayan/rankup.gif`)) {
-			arrayContent = { body: message, attachment: createReadStream(__dirname + `/Nayan/rankup.gif`), mentions: [{ tag: name, id: senderID }] };
+		if (existsSync(__dirname + `/ArYan/ARYAN_20240904_121212_0002.gif`)) {
+			arrayContent = { body: message, attachment: createReadStream(__dirname + `/ArYan/ARYAN_20240904_121212_0002.gif`), mentions: [{ tag: name, id: senderID }] };
 		} else {
 			arrayContent = { body: message, mentions: [{ tag: name, id: senderID }] };
 		}
