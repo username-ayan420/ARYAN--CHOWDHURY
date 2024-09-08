@@ -12,11 +12,11 @@ const tl = [
 const lang = "bn";
 
 module.exports.config = {
-  name: "bot",
+  name: "bby",
   version: "0.0.4",
   permission: 0,
   prefix: false,
-  credits: "Nayan",
+  credits: "ArYan",
   description: "talk with bot",
   category: "user",
   usages: "",
