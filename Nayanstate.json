@@ -1,5 +1,128 @@
-আ্ঁপ্ঁনা্ঁর্ঁ appstate এ্ঁখানে্ঁ ব্ঁসা্ঁন্ঁ
-
-
-
-I am ArYan Raj
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261565031574247%22%3A%22sjeQID8I%22%2C%2261561284998064%22%3A%22q4jsukzq%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "datr",
+        "value": "7pXcZkQyQV7JpvZm9YX6R2Ld",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "sb",
+        "value": "7pXcZpX7vpCY_iuAAXsJTiQl",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61565927392999",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "xs",
+        "value": "34%3A_ljSwUvpof9nrw%3A2%3A1726076571%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "fr",
+        "value": "0Da7F5OGC7N8Gsrkp.AWVGU1H6f6T9nf3njO-TZnbk2x8.Bm3JXu..AAA.0.0.Bm4dac.AWU1iy2gZkc",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "61565927392999",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "wd",
+        "value": "486x958",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100620124%3BT%3A28769324",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2618%3Btimestamp%3A1726159467",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B776x393x2.225780963897705",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-09-12T16:44:42.060Z",
+        "lastAccessed": "2024-09-12T16:44:42.060Z"
+    }
+]
