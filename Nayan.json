@@ -5,14 +5,14 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "♥︎╣[-𝖠 𝖱 𝖸 𝖠 𝖭-]╠♥︎",
-  "PREFIX": "/",
+  "BOTNAME": "♥︎╣[-𝚁 𝙰 𝙵 𝙸-]╠♥︎",
+  "PREFIX": "?",
   "OPERATOR": [
     "61564523816700"
   ],
   "ADMINBOT": [
     "61565025325331",
-    "61564523816700"
+    "61554865199888"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
